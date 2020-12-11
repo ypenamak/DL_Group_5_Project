@@ -1,5 +1,5 @@
-# DL_Group_5_Project
-Predicting Low head dams using Deep learning techniques
+# Predicting low-head dams using deep learning techniques
+
 
 This git repo consists of :
 1) Project presentation slides
